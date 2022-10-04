@@ -1,0 +1,10 @@
+body {
+    padding: 70px;
+}
+
+td {
+    padding-left: 80px !important;
+}
+.table {
+    border: 10px solid navy;
+}
